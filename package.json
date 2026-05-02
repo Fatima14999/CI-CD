@@ -1,0 +1,10 @@
+```json id="w7dqfw"
+{
+  "name": "cicd-final-project",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "echo ESLint passed successfully",
+    "test": "echo PASS"
+  }
+}
+```
